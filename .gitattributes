@@ -1,1 +1,7 @@
 *.zip filter=lfs diff=lfs merge=lfs -text
+<<<<<<< HEAD
+=======
+*.safetensors filter=lfs diff=lfs merge=lfs -text
+*.bin filter=lfs diff=lfs merge=lfs -text
+*.json filter=lfs diff=lfs merge=lfs -text
+>>>>>>> 93160c9bc65c58b1aa3f2f15289966fc5a033297
